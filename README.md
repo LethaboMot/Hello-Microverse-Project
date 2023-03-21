@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-displaying hello microverse
+displaying hello microverse using html and setting the header to my favourite  color yellowgreen using CSS 
 
 **[Hello microverse]** is a...
 
@@ -79,16 +79,6 @@ displaying hello microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -96,8 +86,10 @@ displaying hello microverse
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-
-
+-install the linters on the local device
+-setup the workflow 
+-used html file for the header
+-used css to set a color to the header
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +135,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank God-like for helping with the linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
