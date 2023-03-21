@@ -26,7 +26,7 @@ After you're finished please remove all the comments and instructions!
 
   
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>MY README</b></h3>
 
 </div>
 
@@ -58,7 +58,12 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-displaying hello microverse using html and setting the header to my favourite  color yellowgreen using CSS 
+- Open  repository
+- make a feature branch
+- in the feature branch this where i started the project
+- setup the the github workflow 
+- used html file for the header
+- used css file to set a color to the header 
 
 **[Hello microverse]** is a...
 
@@ -85,11 +90,71 @@ displaying hello microverse using html and setting the header to my favourite  c
 
 > Describe how a new developer could make use of your project.
 
+- Open  repository
+- make a feature branch
+- in the feature branch this where i started the project
+- setup the the github workflow 
+- used html file for the header
+- used css file to set a color to the header
+
 To get a local copy up and running, follow these steps.
--install the linters on the local device
--setup the workflow 
--used html file for the header
--used css to set a color to the header
+
+### Setup
+
+Clone this repository to your desired folder or download the Zip folder:
+
+```
+git clone (https://github.com/LethaboMot/Hello-Microverse-Project.git)
+```
+
+- Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd Technopreneur``**
+
+### Install
+
+To install all dependencies, run:
+
+```
+npm install
+```
+
+### Usage
+
+To run the project, follow these instructions:
+
+- After Cloning this repo to your local machine.
+- Open the `index.html` in your browser.
+
+### Run tests
+
+To run tests, run the following command:
+
+- Track HTML linter errors run:
+```
+npx hint .
+```
+- Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+- Track JavaScript linter errors run:
+```
+npx eslint .
+```
+
+### Deployment <a name="deployment"></a>
+
+You can deploy this project using: GitHub Pages,
+- I used GitHub Pages to deploy my website.
+- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+git clone git@github.com:LethaboMot/Hello-Microverse-Project.git
+cd  Hello-Microverse-Project
+git checkout  feature
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
